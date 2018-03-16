@@ -1,0 +1,25 @@
+{
+	"basic":{
+"objective":"all are true"
+},
+"education":[
+	{
+		"degree":"B.tech(computer science of engineering)",
+		"college":"sir klm engineering college",
+		"data":["2015-19","75%"]
+	},
+	{
+
+		"degree":"state board of technical ducation(diploma)",
+		"college":"sri vasavi engineering college",
+ 		"data":[2013-20115,"85%"]
+    	},
+    	{
+
+    		"degree": "ssc",
+    		"college":"zphigh school",
+    		"data":["2012-2013,80%"],
+
+    		}
+    		]
+    	 }

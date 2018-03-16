@@ -1,0 +1,109 @@
+body{
+ background-color:teal;
+}
+.parent{
+   display:flex;
+    flex-direction:row;
+}
+.leftchild{
+	  width:25%;
+	  background-color:#ddd;
+	  padding:0.5%;
+	  margin:0.5%;
+	  border:  solid orange;
+
+
+	}
+    .rightchild{
+	  width:75%;
+	  background-color:#ddd;
+	  padding:0.5%;
+	  margin:0.5%;
+	   border: solid orange;
+}
+.profile-image{
+	display: block;
+	border-radius: 50%;
+	vertical-align: middle;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+h2,h3,h4,h5{
+border:solid;
+	text-align:center;
+}
+
+}
+@media only screen and (min-width:320px) and (max-width:468px) 
+{
+	.parent{
+   display:flex;
+    flex-direction:row;
+}
+.leftchild{
+	  width:100%;
+	  background-color:#ddd;
+	  padding:2%%;
+	  margin:2%;
+	  border:  solid orange;
+
+
+	}
+    .rightchild{
+	  width:100%;
+	  background-color:#ddd;
+	  padding:2%;
+
+	  margin:2%;
+	   border: solid orange;
+}
+}
+@media only screen and (min-width:469px) and (max-width: 768px)
+{
+	.parent{
+   display:flex;
+    flex-direction:row;
+}
+.leftchild{
+	  width:100%;
+	  background-color:#ddd;
+	  padding:2%;
+
+	  margin:2%;
+	  border:  solid orange;
+
+
+	}
+    .rightchild{
+	  width:100%;
+	  background-color:#ddd;
+	  padding:2%;
+	  margin:2%;
+	   border: solid orange;
+}
+}
+@media only screen and (min-width:769px) and (max-width: 1024px)
+{
+	.parent{
+   display:flex;
+    flex-direction:row;
+}
+.leftchild{
+	  width:100%;
+	  background-color:#ddd;
+	  padding:2%;
+	  margin:2%;
+	  border:  solid orange;
+
+
+	}
+    .rightchild{
+	  width:100%;
+	  background-color:#ddd;
+	  padding:2%;
+	  margin:2%;
+	   border: solid orange;
+}
+}
+
